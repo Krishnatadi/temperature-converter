@@ -1,0 +1,38 @@
+body {
+    background-color: #ededed;
+}
+
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ededed;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+}
+
+.result {
+    padding: 10px;
+    border-radius: 5px;
+    color: #000;
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.retry-message {
+    color: #ff0000;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
